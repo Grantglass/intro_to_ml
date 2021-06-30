@@ -2,6 +2,5 @@ pandas
 numpy
 scipy
 sklearn
-nltk
 warnings
 seaborn
